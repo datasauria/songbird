@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "description": "This program generates large numbers of synthesized audio files for use in machine learning applications.",
   "main": "index.js",
+  "engines": {
+    "node": ">=9.9.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/datasauria/songbird/issues"
   },
-  "homepage": "https://github.com/datasauria/songbird#readme"
+  "homepage": "https://github.com/datasauria/songbird#readme",
+  "dependencies": {}
 }
