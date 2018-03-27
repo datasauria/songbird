@@ -19,5 +19,8 @@
     "url": "https://github.com/datasauria/songbird/issues"
   },
   "homepage": "https://github.com/datasauria/songbird#readme",
-  "dependencies": {}
+  "dependencies": {
+    "jsmidgen": "^0.1.5",
+    "synth-js": "^0.1.1"
+  }
 }
