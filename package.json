@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/datasauria/songbird#readme",
   "dependencies": {
-    "jsmidgen": "^0.1.5",
-    "synth-js": "^0.1.1"
+    "jsmidgen": "^0.1.5"
   }
 }
