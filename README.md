@@ -1,3 +1,5 @@
+## Installation
+
 SongBird requires Node.JS version 9.9.0 or higher.
 
 SongBird requires jsmidgen to be installed. Run "npm install" to download
@@ -18,5 +20,14 @@ http://www.schristiancollins.com/generaluser.php
 Place the SF2 file in the fonts directory (or elsewhere), and specify the
 path in the config.js file.
 
-Run "npm run generate" in the root directory to produce an example WAV file.
-By default, files are saved to the "out" directory.
+## Usage
+
+Specify the path to your SoundFont and the notes which you would like to
+produce in the config.js file following the examples provided. For a list
+of MIDI instrument codes, see:
+
+https://soundprogramming.net/file-formats/general-midi-instrument-list
+
+Run "npm run generate" in the root director of the project, and your notes
+should be saved to the "out" directory.
+
