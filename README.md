@@ -4,7 +4,7 @@ SongBird requires fluidsynth to be installed. On MacOS, this can be done
 using the command "brew install fluid-synth --with-libsndfile". For other
 systems, please consult the documentation at:
 
-http://www.fluidsynth.org.
+http://www.fluidsynth.org
 
 SongBird requires a SF2 SoundFont to be installed. I have not included one
 within this repository to avoid licensing confusion. I recommend using the
