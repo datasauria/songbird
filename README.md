@@ -1,7 +1,7 @@
 SongBird requires Node.JS version 9.9.0 or higher.
 
-SongBird requires jsmidgen to produce MIDI files. Run "npm install" to
-download the dependency automatically.
+SongBird requires jsmidgen to be installed. Run "npm install" to download
+and install the dependency automatically.
 
 SongBird requires fluidsynth to be installed. On MacOS, this can be done
 using the command "brew install fluid-synth --with-libsndfile". For other
