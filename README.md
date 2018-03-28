@@ -18,5 +18,5 @@ http://www.schristiancollins.com/generaluser.php
 Place the SF2 file in the fonts directory (or elsewhere), and specify the
 path in the config.js file.
 
-Run "npm start" in the root directory to produce an example WAV file. By
-default, files are saved to the "out" directory.
+Run "npm run generate" in the root directory to produce an example WAV file.
+By default, files are saved to the "out" directory.
